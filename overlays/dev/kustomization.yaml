@@ -5,4 +5,4 @@ resources:
 namePrefix: clrung-
 images:
 - name: gitopsworkshop/my-app
-  newTag: "1"
+  newTag: v2
